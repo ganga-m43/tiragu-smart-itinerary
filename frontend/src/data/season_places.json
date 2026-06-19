@@ -1,0 +1,269 @@
+{
+  "Winter": [
+    {
+      "name": "Gulmarg, Jammu and Kashmir",
+      "address": "Baramulla district, Jammu and Kashmir, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Gulmarg_skiing.jpg",
+      "description": "Snow-covered slopes ideal for skiing and scenic Himalayan views.",
+      "rating": 4.6,
+      "map": "https://maps.google.com/?q=Gulmarg"
+    },
+    {
+      "name": "Manali, Himachal Pradesh",
+      "address": "Kullu Valley, Himachal Pradesh, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Manali_town_2017.jpg",
+      "description": "Popular hill station with snow peaks and adventure sports.",
+      "rating": 4.5,
+      "map": "https://maps.google.com/?q=Manali"
+    },
+    {
+      "name": "Shimla, Himachal Pradesh",
+      "address": "Shimla district, Himachal Pradesh, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Shimla_view_from_Ridge.jpg",
+      "description": "The Queen of Hills, known for colonial architecture and winter charm.",
+      "rating": 4.3,
+      "map": "https://maps.google.com/?q=Shimla"
+    },
+    {
+      "name": "Auli, Uttarakhand",
+      "address": "Chamoli district, Uttarakhand, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Auli_Ski_Resort_Uttarakhand.jpg",
+      "description": "A premier skiing destination surrounded by oak forests.",
+      "rating": 4.4,
+      "map": "https://maps.google.com/?q=Auli"
+    },
+    {
+      "name": "Leh, Ladakh",
+      "address": "Ladakh, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Leh_Palace.jpg",
+      "description": "High-altitude desert with monasteries and frozen lakes in winter.",
+      "rating": 4.7,
+      "map": "https://maps.google.com/?q=Leh"
+    },
+    {
+      "name": "Rann of Kutch, Gujarat",
+      "address": "Kutch district, Gujarat, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Rann_of_Kutch%2C_Gujarat.jpg",
+      "description": "White salt desert famous for Rann Utsav and cultural nights.",
+      "rating": 4.5,
+      "map": "https://maps.google.com/?q=Rann+of+Kutch"
+    },
+    {
+      "name": "Mount Abu, Rajasthan",
+      "address": "Sirohi district, Rajasthan, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Nakki_Lake_Mount_Abu.jpg",
+      "description": "Rajasthan’s only hill station with cool climate and lakes.",
+      "rating": 4.3,
+      "map": "https://maps.google.com/?q=Mount+Abu"
+    },
+    {
+      "name": "Nainital, Uttarakhand",
+      "address": "Nainital district, Uttarakhand, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Nainital_Lake.jpg",
+      "description": "Charming hill town built around a beautiful lake.",
+      "rating": 4.4,
+      "map": "https://maps.google.com/?q=Nainital"
+    }
+  ],
+
+  "Summer": [
+    {
+      "name": "Darjeeling, West Bengal",
+      "address": "Darjeeling district, West Bengal, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Darjeeling_town.jpg",
+      "description": "Famous for its tea gardens and views of Kanchenjunga.",
+      "rating": 4.5,
+      "map": "https://maps.google.com/?q=Darjeeling"
+    },
+    {
+      "name": "Ooty, Tamil Nadu",
+      "address": "Nilgiris district, Tamil Nadu, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Ooty_Lake.jpg",
+      "description": "Pleasant hill station with lakes, gardens, and tea estates.",
+      "rating": 4.4,
+      "map": "https://maps.google.com/?q=Ooty"
+    },
+    {
+      "name": "Munnar, Kerala",
+      "address": "Idukki district, Kerala, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Munnar_tea_gardens.jpg",
+      "description": "Verdant tea plantations and misty mountains.",
+      "rating": 4.6,
+      "map": "https://maps.google.com/?q=Munnar"
+    },
+    {
+      "name": "Coonoor, Tamil Nadu",
+      "address": "Nilgiris district, Tamil Nadu, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Coonoor_View.jpg",
+      "description": "Peaceful hill station near Ooty known for trekking trails.",
+      "rating": 4.3,
+      "map": "https://maps.google.com/?q=Coonoor"
+    },
+    {
+      "name": "Shillong, Meghalaya",
+      "address": "East Khasi Hills district, Meghalaya, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Shillong_view.jpg",
+      "description": "Scotland of the East with waterfalls and rolling hills.",
+      "rating": 4.5,
+      "map": "https://maps.google.com/?q=Shillong"
+    },
+    {
+      "name": "Mahabaleshwar, Maharashtra",
+      "address": "Satara district, Maharashtra, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Mahabaleshwar_valley_view.jpg",
+      "description": "Strawberry farms, viewpoints, and cool summer climate.",
+      "rating": 4.3,
+      "map": "https://maps.google.com/?q=Mahabaleshwar"
+    },
+    {
+      "name": "Gangtok, Sikkim",
+      "address": "East Sikkim district, Sikkim, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Gangtok_city.jpg",
+      "description": "Gateway to Sikkim with monasteries and mountain views.",
+      "rating": 4.6,
+      "map": "https://maps.google.com/?q=Gangtok"
+    },
+    {
+      "name": "Kodaikanal, Tamil Nadu",
+      "address": "Dindigul district, Tamil Nadu, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Kodaikanal_Lake.jpg",
+      "description": "Known as the Princess of Hill Stations with serene lakes.",
+      "rating": 4.4,
+      "map": "https://maps.google.com/?q=Kodaikanal"
+    }
+  ],
+
+  "Monsoon": [
+    {
+      "name": "Mawsynram, Meghalaya",
+      "address": "East Khasi Hills, Meghalaya, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Mawsynram_meghalaya.jpg",
+      "description": "World’s wettest place with lush greenery and waterfalls.",
+      "rating": 4.7,
+      "map": "https://maps.google.com/?q=Mawsynram"
+    },
+    {
+      "name": "Coorg, Karnataka",
+      "address": "Kodagu district, Karnataka, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Coorg_Coffee_Plantations.jpg",
+      "description": "Coffee estates, foggy hills, and scenic valleys.",
+      "rating": 4.6,
+      "map": "https://maps.google.com/?q=Coorg"
+    },
+    {
+      "name": "Lonavala, Maharashtra",
+      "address": "Pune district, Maharashtra, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lonavala_hills.jpg",
+      "description": "Green valleys and waterfalls make it a monsoon paradise.",
+      "rating": 4.3,
+      "map": "https://maps.google.com/?q=Lonavala"
+    },
+    {
+      "name": "Wayanad, Kerala",
+      "address": "Wayanad district, Kerala, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Wayanad_Chembra_Peak.jpg",
+      "description": "Rain-soaked hills and heart-shaped lake at Chembra Peak.",
+      "rating": 4.4,
+      "map": "https://maps.google.com/?q=Wayanad"
+    },
+    {
+      "name": "Khandala, Maharashtra",
+      "address": "Western Ghats, Maharashtra, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Khandala_ghat.jpg",
+      "description": "Lush greenery, mist, and waterfalls during monsoon.",
+      "rating": 4.3,
+      "map": "https://maps.google.com/?q=Khandala"
+    },
+    {
+      "name": "Valley of Flowers, Uttarakhand",
+      "address": "Chamoli district, Uttarakhand, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Valley_of_Flowers_Uttarakhand.jpg",
+      "description": "Vibrant Himalayan meadows blooming after rain.",
+      "rating": 4.8,
+      "map": "https://maps.google.com/?q=Valley+of+Flowers"
+    },
+    {
+      "name": "Goa",
+      "address": "West coast of India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Goa_beach_sunset.jpg",
+      "description": "Lush green countryside and quiet beaches during rains.",
+      "rating": 4.5,
+      "map": "https://maps.google.com/?q=Goa"
+    },
+    {
+      "name": "Saputara, Gujarat",
+      "address": "Dang district, Gujarat, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Saputara_Hill_Station.jpg",
+      "description": "Only hill station of Gujarat, charming in monsoon.",
+      "rating": 4.2,
+      "map": "https://maps.google.com/?q=Saputara"
+    }
+  ],
+
+  "Autumn": [
+    {
+      "name": "Jaipur, Rajasthan",
+      "address": "Jaipur, Rajasthan, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Hawa_Mahal_Jaipur_2011.jpg",
+      "description": "The Pink City, rich in royal palaces and forts.",
+      "rating": 4.6,
+      "map": "https://maps.google.com/?q=Jaipur"
+    },
+    {
+      "name": "Agra, Uttar Pradesh",
+      "address": "Agra district, Uttar Pradesh, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Taj_Mahal_in_March_2004.jpg",
+      "description": "Home to the Taj Mahal, best visited in pleasant autumn weather.",
+      "rating": 4.8,
+      "map": "https://maps.google.com/?q=Agra"
+    },
+    {
+      "name": "Varanasi, Uttar Pradesh",
+      "address": "Varanasi district, Uttar Pradesh, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Varanasi_Ghats.jpg",
+      "description": "Spiritual heart of India with Ganga ghats and temples.",
+      "rating": 4.7,
+      "map": "https://maps.google.com/?q=Varanasi"
+    },
+    {
+      "name": "Ranthambore, Rajasthan",
+      "address": "Sawai Madhopur district, Rajasthan, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Ranthambore_Fort_and_Lake.jpg",
+      "description": "Tiger reserve surrounded by dry deciduous forest.",
+      "rating": 4.4,
+      "map": "https://maps.google.com/?q=Ranthambore"
+    },
+    {
+      "name": "Rishikesh, Uttarakhand",
+      "address": "Dehradun district, Uttarakhand, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Rishikesh_Laxman_Jhula.jpg",
+      "description": "Yoga capital of the world on the banks of Ganga.",
+      "rating": 4.5,
+      "map": "https://maps.google.com/?q=Rishikesh"
+    },
+    {
+      "name": "Amritsar, Punjab",
+      "address": "Amritsar district, Punjab, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Golden_Temple%2C_Amritsar%2C_Punjab.jpg",
+      "description": "Golden Temple glows beautifully in autumn evenings.",
+      "rating": 4.8,
+      "map": "https://maps.google.com/?q=Amritsar"
+    },
+    {
+      "name": "Udaipur, Rajasthan",
+      "address": "Udaipur district, Rajasthan, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Udaipur_City_Palace_View.jpg",
+      "description": "City of Lakes, known for its romantic ambience.",
+      "rating": 4.6,
+      "map": "https://maps.google.com/?q=Udaipur"
+    },
+    {
+      "name": "Bangalore Palace",
+      "address": "Palace Rd, Vasanth Nagar, Bengaluru, Karnataka 560052, India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bangalore_Palace.jpg",
+      "description": "A royal palace with Tudor-style architecture and beautiful gardens.",
+      "rating": 4.2,
+      "map": "https://maps.google.com/?q=Bangalore+Palace"
+    }
+  ]
+}

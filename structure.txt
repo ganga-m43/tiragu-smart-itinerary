@@ -1,0 +1,49 @@
+travel-community/
+│
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── assets/
+│   │   ├── components/
+│   │   │   ├── Navbar.jsx
+│   │   │   ├── HeroSection.jsx
+│   │   │   ├── SearchBar.jsx
+│   │   │   ├── TripCard.jsx
+│   │   │   ├── StoryCard.jsx
+│   │   │   └── Footer.jsx
+│   │   ├── pages/
+│   │   │   ├── Home.jsx
+│   │   │   ├── AIPlanner.jsx
+│   │   │   ├── Stories.jsx
+│   │   │   ├── HiddenGems.jsx
+│   │   │   ├── Profile.jsx
+│   │   │   └── Login.jsx
+│   │   ├── App.jsx
+│   │   ├── main.jsx
+│   │   └── data/
+│   │       └── mockData.json
+│   ├── package.json
+│   └── vite.config.js
+│
+├── backend/
+│   ├── server.js
+│   ├── package.json
+│   ├── routes/
+│   │   ├── userRoutes.js
+│   │   ├── tripRoutes.js
+│   │   ├── storyRoutes.js
+│   │   └── gemRoutes.js
+│   ├── controllers/
+│   ├── models/
+│   │   ├── User.js
+│   │   ├── Trip.js
+│   │   ├── Story.js
+│   │   └── Gem.js
+│   └── config/
+│       └── db.js
+│
+└── README.md
+
+
+
+place api=AIzaSyB0MecC3dv1A2qDvkeYOK9Swb0YsSOkSis
